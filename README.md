@@ -2,7 +2,7 @@
 ## Connecting Customers with Local Shops and Service Providers
 
 ### Description
-**nkd app** is a versatile platform that connects customers with local shopkeepers and service providers, such as salons. Whether you need to order products from nearby stores or book an appointment for a service, nkd app makes it simple and convenient. The app features a shopping cart, OTP security, flexible payment options, and appointment scheduling for services.
+**NKD app** is a versatile platform that connects customers with local shopkeepers and service providers, such as salons. Whether you need to order products from nearby stores or book an appointment for a service, nkd app makes it simple and convenient. The app features a shopping cart, OTP security, flexible payment options, and appointment scheduling for services.
 
 ### Features
 - **Shop from Local Stores:** Browse and order products from your favorite local shops.
