@@ -14,22 +14,22 @@
 
 ### Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px;">
   <img src="screenshots/page1.png" width="300" style="flex: 1;" />
   <img src="screenshots/page2.png" width="300" style="flex: 1;" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px; margin-top: 10px;">
   <img src="screenshots/page3.png" width="300" style="flex: 1;" />
   <img src="screenshots/page4.png" width="300" style="flex: 1;" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px; margin-top: 10px;">
   <img src="screenshots/page5.png" width="300" style="flex: 1;" />
   <img src="screenshots/page6.png" width="300" style="flex: 1;" />
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px; margin-top: 10px;">
   <img src="screenshots/page7.png" width="300" style="flex: 1;" />
   <img src="screenshots/page8.png" width="300" style="flex: 1;" />
 </div>
