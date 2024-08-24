@@ -14,13 +14,5 @@
 
 ### Screenshots
 Include screenshots of key features and pages:
-- ![Home Screen](screenshots/home.png)
-  _Home Screen_
-- ![Shop Selection](screenshots/shop_selection.png)
-  _Shop Selection_
-- ![Service Booking](screenshots/service_booking.png)
-  _Service Booking_
-- ![Cart](screenshots/cart.png)
-  _Cart_
-- ![Order Tracking](screenshots/order_tracking.png)
-  _Order Tracking_
+- ![Home Screen](screenshots/Screenshot2024-08-24173110.png)  
+ 
