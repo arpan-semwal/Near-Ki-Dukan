@@ -14,8 +14,8 @@
 
 ### Screenshots
 
-<div style="display: flex; flex-wrap: wrap; padding-right:100px";">
-  <img src="screenshots/page1.png" width="300" style="flex: 1;" />
+<div style="display: flex; flex-wrap: wrap;";">
+  <img src="screenshots/page1.png" width="300" style="flex: 1 padding-right:100;" />
   <img src="screenshots/page2.png" width="300" style="flex: 1;" />
 </div>
 
