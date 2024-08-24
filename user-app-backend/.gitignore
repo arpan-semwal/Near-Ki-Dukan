@@ -1,0 +1,5 @@
+node_modules
+.env
+ca-cert.pem
+# Ignore sensitive files
+healthy-reason-427912-q7-a294c8cbf151.json
