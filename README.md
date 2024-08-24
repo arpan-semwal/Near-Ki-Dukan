@@ -15,12 +15,12 @@
 ### Screenshots
 
 <p float="left">
-  <img src="screenshots/page1.png" width="45%" style="margin-right: 5%;" />
+  <img src="screenshots/page1.png" width="45%" style="margin-right: 55%;" />
   <img src="screenshots/page2.png" width="45%" />
 </p>
 
 <p float="left">
-  <img src="screenshots/page3.png" width="45%" style="margin-right: 5%;" />
+  <img src="screenshots/page3.png" width="45%" style="margin-right:55%;" />
   <img src="screenshots/page4.png" width="45%" />
 </p>
 
