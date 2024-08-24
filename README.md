@@ -14,5 +14,6 @@
 
 ### Screenshots
 Include screenshots of key features and pages:
-- ![Home Screen](screenshots/Screenshot2024-08-24173110.png)  
+- ![Home Screen](screenshots/page1.png)
+-   
  
