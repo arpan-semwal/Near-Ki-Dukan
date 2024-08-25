@@ -15,8 +15,8 @@
 ### Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  <img src="screenshots/page1.png" width="300" style="flex: 1;" />
-  <img src="screenshots/page2.png" width="300" style="flex: 1;" />
+  <img align="left" src="screenshots/page1.png" width="300" style="flex: 1;" />
+  <img align="right" src="screenshots/page2.png" width="300" style="flex: 1;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
