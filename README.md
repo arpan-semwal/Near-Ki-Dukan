@@ -15,43 +15,43 @@
 ### Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  <img  src="screenshots/page1.png" width="300" style="flex: 1;" />
-  <img  align="right" src="screenshots/page2.png" width="300" style="flex: 1;" />
+  <img  src="screenshots/page1.png" width="300"  ;" />
+  <img  align="right" src="screenshots/page2.png" width="300"  " />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
   <img src="screenshots/page3.png" width="300" style="flex: 1;" />
-  <img   align="right" src="screenshots/page4.png" width="300" style="flex: 1;" />
+  <img   align="right" src="screenshots/page4.png" width="300" ;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  <img src="screenshots/page5.png" width="300" style="flex: 1;" />
-  <img  align="right" src="screenshots/page6.png" width="300" style="flex: 1;" />
+  <img src="screenshots/page5.png" width="300" ;" />
+  <img  align="right" src="screenshots/page6.png" width="300" ;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  <img src="screenshots/page7.png" width="300" style="flex: 1;" />
-  <img  align="right" src="screenshots/page8.png" width="300" style="flex: 1;" />
+  <img src="screenshots/page7.png" width="300"  ;" />
+  <img  align="right" src="screenshots/page8.png" width="300" ;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
   <img src="screenshots/page9.png" width="300" style="flex: 1;" />
-  <img  align="right" src="screenshots/page10.png" width="300" style="flex: 1;" />
+  <img  align="right" src="screenshots/page10.png" width="300"  ;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  <img src="screenshots/page11.png" width="300" style="flex: 1;" />
-  <img  align="right" src="screenshots/page12.png" width="300" style="flex: 1;" />
+  <img src="screenshots/page11.png" width="300"  ;" />
+  <img  align="right" src="screenshots/page12.png" width="300"  ;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
   <img src="screenshots/page13.png" width="300" style="flex: 1;" />
-  <img  align="right" src="screenshots/page14.png" width="300" style="flex: 1;" />
+  <img  align="right" src="screenshots/page14.png" width="300" ;" />
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
   <img src="screenshots/page15.png" width="300" style="flex: 1;" />
-  <img   align="right" src="screenshots/page16.png" width="300" style="flex: 1;" />
+  <img   align="right" src="screenshots/page16.png" width="300"  " />
 </div>
 
 
